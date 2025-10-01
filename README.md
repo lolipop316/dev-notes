@@ -9,4 +9,4 @@ It’s mainly front-end work right now (HTML, CSS, JS) as I go through my diplom
 - `snippets/` – quick code references and experiments
 
 ## Purpose
-This repo is for practice and consistency. A lot of it will be rough or unfinished.
+This repo is for practice and consistency. A lot of it will be rough or unfinished
