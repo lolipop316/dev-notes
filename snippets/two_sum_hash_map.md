@@ -1,10 +1,6 @@
-# Python - Two Sum
-
-The optimized Two Sum solution using hash map (O(n)):
+# Two Sum (Hash Map)
 
 ```python
-# Optimized with hash map
-
 def two_sum(nums, target):
     seen = {}
     for i, num in enumerate(nums):
@@ -13,3 +9,5 @@ def two_sum(nums, target):
             return [seen[diff], i]
         seen[num] = i
 ```
+
+**Time Complexity:** O(n)

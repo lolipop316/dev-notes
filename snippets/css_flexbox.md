@@ -1,6 +1,12 @@
-# CSS Flexbox
+# CSS Flexbox Snippet
 
-Using flexbox for layout management. Main properties:
-- `display: flex;` to enable flexbox
-- `justify-content` to align children
-- `flex-wrap` to allow children to wrap
+```css
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+```
+
+- Flexbox allows responsive design
+- Common for navbars, layouts, menus
