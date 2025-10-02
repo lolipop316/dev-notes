@@ -1,25 +1,12 @@
-# Dev Notes (Full Collection)
+# Dev Notes
 
-This repo combines all study artifacts from FreeCodeCamp, Diploma prep, and coding practice.
+This is where I keep my developer notes, practice code, and small projects.  
+It’s mainly front-end work right now (HTML, CSS, JS) as I go through my diploma, but I’ll keep adding more as I learn.
 
-## Structure
-
-### Labs
-- css_flexbox.md – CSS flexbox basics
-- js_basics_lab.md – JavaScript basics (variables, numbers, arrays)
-- js_arrays_update_lab.md – Updating array elements
-
-### Projects
-- fcc_projects.md – FreeCodeCamp builds (CatPhotoApp, Café Menu, Color Marker)
-- character_roster.md – Mini JS project combining variables, arrays, arithmetic
-- shopping_cart.md – Mini JS project mixing arrays + numbers
-
-### Snippets
-- JavaScript: variables.js, undefined.js, numbers.js, arrays.js, js_array_add_vs_update.js
-- Python: two_sum_brute_force.md, two_sum_hash_map.md
-- CSS: css_flexbox.md
+## What’s inside
+- labs/ – small hands-on exercises from daily study
+- projects/ – diploma and FreeCodeCamp builds
+- snippets/ – quick code references and experiments
 
 ## Purpose
-This repo is for practice and consistency.  
-It shows daily study artifacts across web dev, coding, and security.  
-Some files are rough or unfinished, but everything is logged as proof-of-work.
+This repo is for practice and consistency. A lot of it will be rough or unfinished
