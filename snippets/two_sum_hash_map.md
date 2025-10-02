@@ -9,5 +9,4 @@ def two_sum(nums, target):
             return [seen[diff], i]
         seen[num] = i
 ```
-
 **Time Complexity:** O(n)
