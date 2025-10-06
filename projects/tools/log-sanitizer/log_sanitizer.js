@@ -5,7 +5,7 @@ function sanitizeLog(logEntry) {
   const patterns = [
     { regex: /[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-z]{2,}/g, replacement: "[REDACTED_EMAIL]" },
     { regex: /\+?\d[\d\- ]{8,}\d/g, replacement: "[REDACTED_PHONE]" },
-    { regex: /[A-Za-z0-9]{10,}/g, replacement: "[REDACTED_TOKEN]" },
+    { regex: /[A-Za-z0-9]{16,}/g, replacement: "[REDACTED_TOKEN]" },
     { regex: /\b\d{1,3}(\.\d{1,3}){3}\b/g, replacement: "[REDACTED_IP]" }
   ];
 
