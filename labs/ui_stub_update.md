@@ -51,6 +51,6 @@ Result
       margin: 10px auto;
     }
   }
-</style>
+</pre>
 
 - Result: Responsive info card + hover effect working.
